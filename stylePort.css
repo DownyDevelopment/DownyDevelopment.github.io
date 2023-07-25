@@ -1,0 +1,26 @@
+
+.jumbotron {
+    padding-top: 8rem;
+    background-color: #C1C3BE;
+    font-family: poppins;
+}
+
+section{
+    padding-top: 6rem;
+}
+
+#Project {
+    background-color: #C1C3BE;
+}
+
+#SocialMedia{
+    background-color: #C1C3BE
+}
+
+footer{
+    background-color: #0c1e2c;
+}
+
+button {
+    color: #aea885;
+}
